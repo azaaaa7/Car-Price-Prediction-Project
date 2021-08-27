@@ -1,7 +1,7 @@
-# Car Price Prediction
-Given Project is a ML regression model to predict car price. For this project a kaggle dataset of used cars was used. The model used for this project was Random Forest Regressor.
+# Car Price Prediction by Azhar Neroth
+This is an ML project to predict car prices. A kaggle dataset of used cars was used. The model used was Random Forest Regressor.
 
-Data Collection: 
+Data Collection: [from cardekho.com]
 [Car Price Prediction](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho) from Kaggle
 
 

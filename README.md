@@ -1,5 +1,5 @@
 # Car Price Prediction
-Given Project is a Machine Learning regression model to predict car price. For this project a kaggle dataset of used cars was used. The model used for this project was Random Forest Regressor.
+Given Project is a ML regression model to predict car price. For this project a kaggle dataset of used cars was used. The model used for this project was Random Forest Regressor.
 
 Data Collection: 
 [Car Price Prediction](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho) from Kaggle
@@ -13,7 +13,7 @@ Tech Stack
 * IDE: Jupyter notebook, Pycharm
 
 How to run this app
-* First create a virtual environment by using this command:
+* Firstly, a virtual environment is created using this command:
 * conda create -n myenv python=3.6
 * Activate the environment using the below command:
 * conda activate myenv
@@ -33,6 +33,6 @@ Workflow
 
 
 
-Credits: I learnt the implementation of this project from Krish Naik(Youtube Channel) and did it as a part of self study.
+Credits: Krish Naik YT (https://www.youtube.com/watch?v=p_tpQSY1aTs)
 
 
